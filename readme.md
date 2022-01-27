@@ -26,4 +26,4 @@ Este proyecto es muy completo y explica un montón de funcionalidades y opciones
 ![contacts](contacts.png)
 ![usuarios](usuarios.png)
 
-Por último se realiza la subida del repositorio a Github mediante terminal.
+Por último se realiza la subida del repositorio a Github mediante terminal, previa creación de un .gitignore que indique subir sólo el contenido necesario.
